@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<toc version="1.0"> <!--  categoryclosedimage="FolderClosed" categoryopenimage="FolderOpened"  
+topicimage="ItemIco"-->
+        <tocitem text="Menu"    target="menu">
+                   <tocitem text="Altas"            target="ventana_alta"/>
+                   <tocitem text="Convenios"        target="ventana_convenios"/>
+		   <tocitem text="Datos Generales"  target="ventana_datosgenerales"/>
+		   <tocitem text="Representantes"   target="ventana_representantes"/>
+		   <tocitem text="Centros de trabajo"    target="ventana_centros"/>
+		   <tocitem text="Borrar"           target="ventana_borrar"/>
+		   <tocitem text="Actualizar"       target="ventana_actualizar"/>
+        </tocitem>
+</toc>

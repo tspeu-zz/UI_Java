@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'  ?>
+<!DOCTYPE index
+  PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp Index Version 1.0//EN"
+         "http://java.sun.com/products/javahelp/index_1_0.dtd">
+<index version="1.0">
+        <indexitem text="Menu"    target="menu"/>
+        <indexitem text="Altas"    target="ventana_alta"/>
+        <indexitem text="Convenios"    target="ventana_convenios"/>
+		<indexitem text="Datos generales"    target="ventana_datosgenerales"/>
+		<indexitem text="Dar alta representantes"    target="ventana_representantes"/>
+		<indexitem text="Centros de trabajo"    target="ventana_centros"/>
+		<indexitem text="Borrar"    target="ventana_borrar"/>
+		<indexitem text="Actualizar"    target="ventana_actualizar"/>
+</index>
